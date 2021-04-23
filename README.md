@@ -14,3 +14,12 @@ I am Sumana Saha and a Software Engineer by profession. I am currently based in 
 - ⚡ Fun fact: I am a cat lover and a foodie!
 
 
+**Languages and Tools:**  
+
+<a href="https://github.com/sumanas27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanas27&theme=light&count_private=true&layout=compact" alt="Sumana's most used languages" />
+</a>
+<a href="https://github.com/sumanas27">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanas27&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sumana's github stats"/>
+</a>
+
