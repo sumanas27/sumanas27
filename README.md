@@ -3,7 +3,7 @@
 <!-- **sumanas27/sumanas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Fintech Products @Ratepay GmbH(https://www.ratepay.com/)
-- 🌱 I’m currently learning AWS, 
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Spring, JAVA topics, Microservices architechture
 - 🤔 I’m looking for help with Frontend technologies
 - 💬 Ask me about Programming, Fitness, Quantitative Nutrition
